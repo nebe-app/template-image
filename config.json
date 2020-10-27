@@ -1,0 +1,9 @@
+{
+	"name": "Demo Image",
+	"description": "Template for image campaigns",
+	"tags": [
+		"Demo",
+		"Template"
+	],
+	"format": "image"
+}
